@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.o -o Leetcode_everyday 
