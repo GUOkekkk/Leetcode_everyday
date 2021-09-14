@@ -142,6 +142,33 @@ Leetcode_everyday/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/build
 .PHONY : Leetcode_everyday/fast
 
+FindPeakElement_20210915.o: FindPeakElement_20210915.cpp.o
+
+.PHONY : FindPeakElement_20210915.o
+
+# target to build an object file
+FindPeakElement_20210915.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.o
+.PHONY : FindPeakElement_20210915.cpp.o
+
+FindPeakElement_20210915.i: FindPeakElement_20210915.cpp.i
+
+.PHONY : FindPeakElement_20210915.i
+
+# target to preprocess a source file
+FindPeakElement_20210915.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.i
+.PHONY : FindPeakElement_20210915.cpp.i
+
+FindPeakElement_20210915.s: FindPeakElement_20210915.cpp.s
+
+.PHONY : FindPeakElement_20210915.s
+
+# target to generate assembly for a file
+FindPeakElement_20210915.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.s
+.PHONY : FindPeakElement_20210915.cpp.s
+
 VaildParentheses_20210914.o: VaildParentheses_20210914.cpp.o
 
 .PHONY : VaildParentheses_20210914.o
@@ -178,6 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Leetcode_everyday"
+	@echo "... FindPeakElement_20210915.o"
+	@echo "... FindPeakElement_20210915.i"
+	@echo "... FindPeakElement_20210915.s"
 	@echo "... VaildParentheses_20210914.o"
 	@echo "... VaildParentheses_20210914.i"
 	@echo "... VaildParentheses_20210914.s"

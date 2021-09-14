@@ -93,12 +93,12 @@ clean: CMakeFiles/Leetcode_everyday.dir/clean
 CMakeFiles/Leetcode_everyday.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guo/Leetcode_everyday/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Leetcode_everyday"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guo/Leetcode_everyday/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target Leetcode_everyday"
 .PHONY : CMakeFiles/Leetcode_everyday.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Leetcode_everyday.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guo/Leetcode_everyday/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guo/Leetcode_everyday/cmake-build-debug/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Leetcode_everyday.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/guo/Leetcode_everyday/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Leetcode_everyday.dir/rule

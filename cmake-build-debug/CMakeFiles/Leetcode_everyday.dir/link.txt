@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.o -o Leetcode_everyday 
+/usr/bin/c++ -g CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.o CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.o -o Leetcode_everyday 

@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/guo/Leetcode_everyday/FindPeakElement_20210915.cpp">
+			<Option target="Leetcode_everyday"/>
+		</Unit>
 		<Unit filename="/home/guo/Leetcode_everyday/VaildParentheses_20210914.cpp">
 			<Option target="Leetcode_everyday"/>
 		</Unit>

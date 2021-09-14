@@ -3,4 +3,4 @@ project(Leetcode_everyday)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Leetcode_everyday VaildParentheses_20210914.cpp)
+add_executable(Leetcode_everyday VaildParentheses_20210914.cpp FindPeakElement_20210915.cpp)
