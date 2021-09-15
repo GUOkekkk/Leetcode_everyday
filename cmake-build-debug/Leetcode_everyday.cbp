@@ -84,10 +84,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/guo/Leetcode_everyday/FindPeakElement_20210915.cpp">
+		<Unit filename="/home/guo/Leetcode_everyday/162_FindPeakElement_20210915.cpp">
 			<Option target="Leetcode_everyday"/>
 		</Unit>
-		<Unit filename="/home/guo/Leetcode_everyday/VaildParentheses_20210914.cpp">
+		<Unit filename="/home/guo/Leetcode_everyday/20_VaildParentheses_20210914.cpp">
+			<Option target="Leetcode_everyday"/>
+		</Unit>
+		<Unit filename="/home/guo/Leetcode_everyday/27_RemoveElement_20210916.cpp">
 			<Option target="Leetcode_everyday"/>
 		</Unit>
 		<Unit filename="/home/guo/Leetcode_everyday/CMakeLists.txt">

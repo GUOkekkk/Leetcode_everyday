@@ -76,45 +76,60 @@ include CMakeFiles/Leetcode_everyday.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Leetcode_everyday.dir/flags.make
 
-CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.o: CMakeFiles/Leetcode_everyday.dir/flags.make
-CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.o: ../VaildParentheses_20210914.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guo/Leetcode_everyday/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.o -c /home/guo/Leetcode_everyday/VaildParentheses_20210914.cpp
+CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.o: CMakeFiles/Leetcode_everyday.dir/flags.make
+CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.o: ../20_VaildParentheses_20210914.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guo/Leetcode_everyday/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.o -c /home/guo/Leetcode_everyday/20_VaildParentheses_20210914.cpp
 
-CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guo/Leetcode_everyday/VaildParentheses_20210914.cpp > CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.i
+CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guo/Leetcode_everyday/20_VaildParentheses_20210914.cpp > CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.i
 
-CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guo/Leetcode_everyday/VaildParentheses_20210914.cpp -o CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.s
+CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guo/Leetcode_everyday/20_VaildParentheses_20210914.cpp -o CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.s
 
-CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.o: CMakeFiles/Leetcode_everyday.dir/flags.make
-CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.o: ../FindPeakElement_20210915.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guo/Leetcode_everyday/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.o -c /home/guo/Leetcode_everyday/FindPeakElement_20210915.cpp
+CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.o: CMakeFiles/Leetcode_everyday.dir/flags.make
+CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.o: ../162_FindPeakElement_20210915.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guo/Leetcode_everyday/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.o -c /home/guo/Leetcode_everyday/162_FindPeakElement_20210915.cpp
 
-CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guo/Leetcode_everyday/FindPeakElement_20210915.cpp > CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.i
+CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guo/Leetcode_everyday/162_FindPeakElement_20210915.cpp > CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.i
 
-CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guo/Leetcode_everyday/FindPeakElement_20210915.cpp -o CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.s
+CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guo/Leetcode_everyday/162_FindPeakElement_20210915.cpp -o CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.s
+
+CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.o: CMakeFiles/Leetcode_everyday.dir/flags.make
+CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.o: ../27_RemoveElement_20210916.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guo/Leetcode_everyday/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.o -c /home/guo/Leetcode_everyday/27_RemoveElement_20210916.cpp
+
+CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guo/Leetcode_everyday/27_RemoveElement_20210916.cpp > CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.i
+
+CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guo/Leetcode_everyday/27_RemoveElement_20210916.cpp -o CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.s
 
 # Object files for target Leetcode_everyday
 Leetcode_everyday_OBJECTS = \
-"CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.o" \
-"CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.o"
+"CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.o" \
+"CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.o" \
+"CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.o"
 
 # External object files for target Leetcode_everyday
 Leetcode_everyday_EXTERNAL_OBJECTS =
 
-Leetcode_everyday: CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.o
-Leetcode_everyday: CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.o
+Leetcode_everyday: CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.o
+Leetcode_everyday: CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.o
+Leetcode_everyday: CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.o
 Leetcode_everyday: CMakeFiles/Leetcode_everyday.dir/build.make
 Leetcode_everyday: CMakeFiles/Leetcode_everyday.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guo/Leetcode_everyday/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Leetcode_everyday"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guo/Leetcode_everyday/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Leetcode_everyday"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Leetcode_everyday.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

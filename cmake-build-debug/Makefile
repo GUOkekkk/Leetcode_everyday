@@ -142,59 +142,86 @@ Leetcode_everyday/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/build
 .PHONY : Leetcode_everyday/fast
 
-FindPeakElement_20210915.o: FindPeakElement_20210915.cpp.o
+162_FindPeakElement_20210915.o: 162_FindPeakElement_20210915.cpp.o
 
-.PHONY : FindPeakElement_20210915.o
-
-# target to build an object file
-FindPeakElement_20210915.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.o
-.PHONY : FindPeakElement_20210915.cpp.o
-
-FindPeakElement_20210915.i: FindPeakElement_20210915.cpp.i
-
-.PHONY : FindPeakElement_20210915.i
-
-# target to preprocess a source file
-FindPeakElement_20210915.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.i
-.PHONY : FindPeakElement_20210915.cpp.i
-
-FindPeakElement_20210915.s: FindPeakElement_20210915.cpp.s
-
-.PHONY : FindPeakElement_20210915.s
-
-# target to generate assembly for a file
-FindPeakElement_20210915.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/FindPeakElement_20210915.cpp.s
-.PHONY : FindPeakElement_20210915.cpp.s
-
-VaildParentheses_20210914.o: VaildParentheses_20210914.cpp.o
-
-.PHONY : VaildParentheses_20210914.o
+.PHONY : 162_FindPeakElement_20210915.o
 
 # target to build an object file
-VaildParentheses_20210914.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.o
-.PHONY : VaildParentheses_20210914.cpp.o
+162_FindPeakElement_20210915.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.o
+.PHONY : 162_FindPeakElement_20210915.cpp.o
 
-VaildParentheses_20210914.i: VaildParentheses_20210914.cpp.i
+162_FindPeakElement_20210915.i: 162_FindPeakElement_20210915.cpp.i
 
-.PHONY : VaildParentheses_20210914.i
+.PHONY : 162_FindPeakElement_20210915.i
 
 # target to preprocess a source file
-VaildParentheses_20210914.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.i
-.PHONY : VaildParentheses_20210914.cpp.i
+162_FindPeakElement_20210915.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.i
+.PHONY : 162_FindPeakElement_20210915.cpp.i
 
-VaildParentheses_20210914.s: VaildParentheses_20210914.cpp.s
+162_FindPeakElement_20210915.s: 162_FindPeakElement_20210915.cpp.s
 
-.PHONY : VaildParentheses_20210914.s
+.PHONY : 162_FindPeakElement_20210915.s
 
 # target to generate assembly for a file
-VaildParentheses_20210914.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/VaildParentheses_20210914.cpp.s
-.PHONY : VaildParentheses_20210914.cpp.s
+162_FindPeakElement_20210915.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.s
+.PHONY : 162_FindPeakElement_20210915.cpp.s
+
+20_VaildParentheses_20210914.o: 20_VaildParentheses_20210914.cpp.o
+
+.PHONY : 20_VaildParentheses_20210914.o
+
+# target to build an object file
+20_VaildParentheses_20210914.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.o
+.PHONY : 20_VaildParentheses_20210914.cpp.o
+
+20_VaildParentheses_20210914.i: 20_VaildParentheses_20210914.cpp.i
+
+.PHONY : 20_VaildParentheses_20210914.i
+
+# target to preprocess a source file
+20_VaildParentheses_20210914.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.i
+.PHONY : 20_VaildParentheses_20210914.cpp.i
+
+20_VaildParentheses_20210914.s: 20_VaildParentheses_20210914.cpp.s
+
+.PHONY : 20_VaildParentheses_20210914.s
+
+# target to generate assembly for a file
+20_VaildParentheses_20210914.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.s
+.PHONY : 20_VaildParentheses_20210914.cpp.s
+
+27_RemoveElement_20210916.o: 27_RemoveElement_20210916.cpp.o
+
+.PHONY : 27_RemoveElement_20210916.o
+
+# target to build an object file
+27_RemoveElement_20210916.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.o
+.PHONY : 27_RemoveElement_20210916.cpp.o
+
+27_RemoveElement_20210916.i: 27_RemoveElement_20210916.cpp.i
+
+.PHONY : 27_RemoveElement_20210916.i
+
+# target to preprocess a source file
+27_RemoveElement_20210916.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.i
+.PHONY : 27_RemoveElement_20210916.cpp.i
+
+27_RemoveElement_20210916.s: 27_RemoveElement_20210916.cpp.s
+
+.PHONY : 27_RemoveElement_20210916.s
+
+# target to generate assembly for a file
+27_RemoveElement_20210916.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.s
+.PHONY : 27_RemoveElement_20210916.cpp.s
 
 # Help Target
 help:
@@ -205,12 +232,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Leetcode_everyday"
-	@echo "... FindPeakElement_20210915.o"
-	@echo "... FindPeakElement_20210915.i"
-	@echo "... FindPeakElement_20210915.s"
-	@echo "... VaildParentheses_20210914.o"
-	@echo "... VaildParentheses_20210914.i"
-	@echo "... VaildParentheses_20210914.s"
+	@echo "... 162_FindPeakElement_20210915.o"
+	@echo "... 162_FindPeakElement_20210915.i"
+	@echo "... 162_FindPeakElement_20210915.s"
+	@echo "... 20_VaildParentheses_20210914.o"
+	@echo "... 20_VaildParentheses_20210914.i"
+	@echo "... 20_VaildParentheses_20210914.s"
+	@echo "... 27_RemoveElement_20210916.o"
+	@echo "... 27_RemoveElement_20210916.i"
+	@echo "... 27_RemoveElement_20210916.s"
 .PHONY : help
 
 
