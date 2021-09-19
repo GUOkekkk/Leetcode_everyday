@@ -19,7 +19,7 @@ using namespace std;
 
 class Solution {
 public:
-    int removeElement(vector<int>& nums, int val) {
+    int removeElement(vector<int>& nums, int val) { // input is a reference
         int left = 0, right = nums.size(); // cause the space complexity is O(1) so cant create a new vector just adjust in this vector. O(1) means do not depend on the input
         while (left < right) {
             if (nums[left] == val) {
@@ -39,4 +39,5 @@ int main()
     int test_val = 7;
     Solution s1;
     cout << s1.removeElement(test, test_val) << endl;
-}*/
+}
+*/

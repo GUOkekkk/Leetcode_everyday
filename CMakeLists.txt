@@ -3,4 +3,4 @@ project(Leetcode_everyday)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Leetcode_everyday 20_VaildParentheses_20210914.cpp 162_FindPeakElement_20210915.cpp 27_RemoveElement_20210916.cpp)
+add_executable(Leetcode_everyday 20_VaildParentheses_20210914.cpp 162_FindPeakElement_20210915.cpp 27_RemoveElement_20210916.cpp 53_MaximunSubarray_20210917.cpp)

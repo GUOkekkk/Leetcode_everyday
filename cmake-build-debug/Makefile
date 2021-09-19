@@ -223,6 +223,33 @@ Leetcode_everyday/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.s
 .PHONY : 27_RemoveElement_20210916.cpp.s
 
+53_MaximunSubarray_20210917.o: 53_MaximunSubarray_20210917.cpp.o
+
+.PHONY : 53_MaximunSubarray_20210917.o
+
+# target to build an object file
+53_MaximunSubarray_20210917.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/53_MaximunSubarray_20210917.cpp.o
+.PHONY : 53_MaximunSubarray_20210917.cpp.o
+
+53_MaximunSubarray_20210917.i: 53_MaximunSubarray_20210917.cpp.i
+
+.PHONY : 53_MaximunSubarray_20210917.i
+
+# target to preprocess a source file
+53_MaximunSubarray_20210917.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/53_MaximunSubarray_20210917.cpp.i
+.PHONY : 53_MaximunSubarray_20210917.cpp.i
+
+53_MaximunSubarray_20210917.s: 53_MaximunSubarray_20210917.cpp.s
+
+.PHONY : 53_MaximunSubarray_20210917.s
+
+# target to generate assembly for a file
+53_MaximunSubarray_20210917.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode_everyday.dir/build.make CMakeFiles/Leetcode_everyday.dir/53_MaximunSubarray_20210917.cpp.s
+.PHONY : 53_MaximunSubarray_20210917.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -241,6 +268,9 @@ help:
 	@echo "... 27_RemoveElement_20210916.o"
 	@echo "... 27_RemoveElement_20210916.i"
 	@echo "... 27_RemoveElement_20210916.s"
+	@echo "... 53_MaximunSubarray_20210917.o"
+	@echo "... 53_MaximunSubarray_20210917.i"
+	@echo "... 53_MaximunSubarray_20210917.s"
 .PHONY : help
 
 
