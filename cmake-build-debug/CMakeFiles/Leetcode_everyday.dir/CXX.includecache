@@ -6,13 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/home/guo/Leetcode_everyday/27_RemoveElement_20210916.cpp
+E:/Leetcode_everyday/162_FindPeakElement_20210915.cpp
 iostream
 -
 vector
 -
 
-/home/guo/Leetcode_everyday/53_MaximunSubarray_20210917.cpp
+E:/Leetcode_everyday/20_VaildParentheses_20210914.cpp
+iostream
+-
+vector
+-
+
+E:/Leetcode_everyday/27_RemoveElement_20210916.cpp
+iostream
+-
+vector
+-
+
+E:/Leetcode_everyday/53_MaximunSubarray_20210917.cpp
 iostream
 -
 vector
