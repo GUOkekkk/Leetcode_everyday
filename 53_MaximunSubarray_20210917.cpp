@@ -17,9 +17,14 @@ public:
             // cout << x << endl;
             // How to find the subarray?
             // A: By using the below function
-            pre = max(pre + x, x); // if pre < 0  and x > 0 return the x, else return the pre + x
-                                   // if pre < 0 and x < 0  return the x
+            pre = max(pre + x, x);
+            // cout << pre << endl;
+            // if pre < 0  and x > 0 return the x, else return the pre + x
+            // if pre < 0 and x < 0  return the x
+            // pre is used to determine whether the previous accumulation is greater than the current value and find the beginning of the subarray
             MaxSum = max(MaxSum, pre); // twice max //if all behind the num[0] is < 0. return the num[0].
+            // cout << MaxSum << endl;
+            // cout << "_______" << endl;
         }
         return MaxSum;
     }
@@ -27,7 +32,7 @@ public:
 
 int main()
 {
-    vector<int> test = {-2, -5, -7, 9, -7};
+    vector<int> test = {2, -5, 10, -9, 20};
     Solution s1;
     cout << s1.maxSubArray(test) << endl;
 }
