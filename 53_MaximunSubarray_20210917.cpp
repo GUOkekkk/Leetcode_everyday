@@ -1,3 +1,4 @@
+/*
 //
 // Created by guo on 2021/9/20.
 //
@@ -36,3 +37,4 @@ int main()
     Solution s1;
     cout << s1.maxSubArray(test) << endl;
 }
+*/
