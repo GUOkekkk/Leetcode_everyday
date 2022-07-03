@@ -1,3 +1,4 @@
+/*
 //
 // Created by guo on 2021/9/16.
 //
@@ -39,3 +40,4 @@ int main()
     Solution s1;
     cout << s1.removeElement(test, test_val) << endl;
 }
+*/
