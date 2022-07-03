@@ -1,3 +1,4 @@
+/*
 //
 // Created by guo on 2021/9/15.
 //
@@ -46,3 +47,4 @@ int main()
     Solution S1;
     cout << S1.findPeakElement(nums) << endl;
 }
+*/

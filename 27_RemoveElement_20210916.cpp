@@ -1,4 +1,3 @@
-/*
 //
 // Created by guo on 2021/9/16.
 //
@@ -24,9 +23,9 @@ public:
         while (left < right) {
             if (nums[left] == val) {
                 nums[left] = nums[right - 1];
-                right--; // by this way, reduce the time only traverse once
+                right--; // by this way, reduce the time only traverse once // make sure the sum of the right and the left equals to nums.size
             } else {
-                left++;
+                left++; // only return the length of the final array
             }
         }
         return left;
@@ -40,4 +39,3 @@ int main()
     Solution s1;
     cout << s1.removeElement(test, test_val) << endl;
 }
-*/
