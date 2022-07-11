@@ -89,6 +89,9 @@
 		<Unit filename="E:/Leetcode_everyday/27_RemoveElement_20210916.cpp">
 			<Option target="Leetcode_everyday"/>
 		</Unit>
+		<Unit filename="E:/Leetcode_everyday/48_RotateImage_20220711.cpp">
+			<Option target="Leetcode_everyday"/>
+		</Unit>
 		<Unit filename="E:/Leetcode_everyday/53_MaximunSubarray_20210917.cpp">
 			<Option target="Leetcode_everyday"/>
 		</Unit>

@@ -203,6 +203,33 @@ Leetcode_everyday/fast:
 	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.s
 .PHONY : 27_RemoveElement_20210916.cpp.s
 
+48_RotateImage_20220711.obj: 48_RotateImage_20220711.cpp.obj
+
+.PHONY : 48_RotateImage_20220711.obj
+
+# target to build an object file
+48_RotateImage_20220711.cpp.obj:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/48_RotateImage_20220711.cpp.obj
+.PHONY : 48_RotateImage_20220711.cpp.obj
+
+48_RotateImage_20220711.i: 48_RotateImage_20220711.cpp.i
+
+.PHONY : 48_RotateImage_20220711.i
+
+# target to preprocess a source file
+48_RotateImage_20220711.cpp.i:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/48_RotateImage_20220711.cpp.i
+.PHONY : 48_RotateImage_20220711.cpp.i
+
+48_RotateImage_20220711.s: 48_RotateImage_20220711.cpp.s
+
+.PHONY : 48_RotateImage_20220711.s
+
+# target to generate assembly for a file
+48_RotateImage_20220711.cpp.s:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/48_RotateImage_20220711.cpp.s
+.PHONY : 48_RotateImage_20220711.cpp.s
+
 53_MaximunSubarray_20210917.obj: 53_MaximunSubarray_20210917.cpp.obj
 
 .PHONY : 53_MaximunSubarray_20210917.obj
@@ -248,6 +275,9 @@ help:
 	@echo ... 27_RemoveElement_20210916.obj
 	@echo ... 27_RemoveElement_20210916.i
 	@echo ... 27_RemoveElement_20210916.s
+	@echo ... 48_RotateImage_20220711.obj
+	@echo ... 48_RotateImage_20220711.i
+	@echo ... 48_RotateImage_20220711.s
 	@echo ... 53_MaximunSubarray_20210917.obj
 	@echo ... 53_MaximunSubarray_20210917.i
 	@echo ... 53_MaximunSubarray_20210917.s

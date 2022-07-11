@@ -1,5 +1,6 @@
+/*
 // Created by Ke GUO on 2021/09/14
-// Leetcode Everyday: Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+// Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 //An input string is valid if:
 //Open brackets must be closed by the same type of brackets.
 //Open brackets must be closed in the correct order.
@@ -46,5 +47,7 @@ int main() {
     string s = "[()]";
     Solution S1; // how to use class, first create one
     cout << boolalpha << S1.isValid(s) << endl; // put in the variable and use the function
+    // boolalpha is used to transfer the 1 and 0 to true and false
     return 0;
 }
+*/
