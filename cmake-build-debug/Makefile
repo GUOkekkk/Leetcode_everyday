@@ -122,6 +122,33 @@ Leetcode_everyday/fast:
 	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/build
 .PHONY : Leetcode_everyday/fast
 
+1252_CellsWithOddValuesInAMatrix_20220712.obj: 1252_CellsWithOddValuesInAMatrix_20220712.cpp.obj
+
+.PHONY : 1252_CellsWithOddValuesInAMatrix_20220712.obj
+
+# target to build an object file
+1252_CellsWithOddValuesInAMatrix_20220712.cpp.obj:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/1252_CellsWithOddValuesInAMatrix_20220712.cpp.obj
+.PHONY : 1252_CellsWithOddValuesInAMatrix_20220712.cpp.obj
+
+1252_CellsWithOddValuesInAMatrix_20220712.i: 1252_CellsWithOddValuesInAMatrix_20220712.cpp.i
+
+.PHONY : 1252_CellsWithOddValuesInAMatrix_20220712.i
+
+# target to preprocess a source file
+1252_CellsWithOddValuesInAMatrix_20220712.cpp.i:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/1252_CellsWithOddValuesInAMatrix_20220712.cpp.i
+.PHONY : 1252_CellsWithOddValuesInAMatrix_20220712.cpp.i
+
+1252_CellsWithOddValuesInAMatrix_20220712.s: 1252_CellsWithOddValuesInAMatrix_20220712.cpp.s
+
+.PHONY : 1252_CellsWithOddValuesInAMatrix_20220712.s
+
+# target to generate assembly for a file
+1252_CellsWithOddValuesInAMatrix_20220712.cpp.s:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/1252_CellsWithOddValuesInAMatrix_20220712.cpp.s
+.PHONY : 1252_CellsWithOddValuesInAMatrix_20220712.cpp.s
+
 162_FindPeakElement_20210915.obj: 162_FindPeakElement_20210915.cpp.obj
 
 .PHONY : 162_FindPeakElement_20210915.obj
@@ -266,6 +293,9 @@ help:
 	@echo ... edit_cache
 	@echo ... Leetcode_everyday
 	@echo ... rebuild_cache
+	@echo ... 1252_CellsWithOddValuesInAMatrix_20220712.obj
+	@echo ... 1252_CellsWithOddValuesInAMatrix_20220712.i
+	@echo ... 1252_CellsWithOddValuesInAMatrix_20220712.s
 	@echo ... 162_FindPeakElement_20210915.obj
 	@echo ... 162_FindPeakElement_20210915.i
 	@echo ... 162_FindPeakElement_20210915.s
