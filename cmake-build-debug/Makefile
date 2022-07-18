@@ -284,6 +284,33 @@ Leetcode_everyday/fast:
 	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/53_MaximunSubarray_20210917.cpp.s
 .PHONY : 53_MaximunSubarray_20210917.cpp.s
 
+731_MyCalendarII_20220718.obj: 731_MyCalendarII_20220718.cpp.obj
+
+.PHONY : 731_MyCalendarII_20220718.obj
+
+# target to build an object file
+731_MyCalendarII_20220718.cpp.obj:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/731_MyCalendarII_20220718.cpp.obj
+.PHONY : 731_MyCalendarII_20220718.cpp.obj
+
+731_MyCalendarII_20220718.i: 731_MyCalendarII_20220718.cpp.i
+
+.PHONY : 731_MyCalendarII_20220718.i
+
+# target to preprocess a source file
+731_MyCalendarII_20220718.cpp.i:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/731_MyCalendarII_20220718.cpp.i
+.PHONY : 731_MyCalendarII_20220718.cpp.i
+
+731_MyCalendarII_20220718.s: 731_MyCalendarII_20220718.cpp.s
+
+.PHONY : 731_MyCalendarII_20220718.s
+
+# target to generate assembly for a file
+731_MyCalendarII_20220718.cpp.s:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/731_MyCalendarII_20220718.cpp.s
+.PHONY : 731_MyCalendarII_20220718.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -311,6 +338,9 @@ help:
 	@echo ... 53_MaximunSubarray_20210917.obj
 	@echo ... 53_MaximunSubarray_20210917.i
 	@echo ... 53_MaximunSubarray_20210917.s
+	@echo ... 731_MyCalendarII_20220718.obj
+	@echo ... 731_MyCalendarII_20220718.i
+	@echo ... 731_MyCalendarII_20220718.s
 .PHONY : help
 
 
