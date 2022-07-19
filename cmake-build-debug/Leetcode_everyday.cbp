@@ -83,6 +83,9 @@
 		<Unit filename="E:/Leetcode_everyday/1252_CellsWithOddValuesInAMatrix_20220712.cpp">
 			<Option target="Leetcode_everyday"/>
 		</Unit>
+		<Unit filename="E:/Leetcode_everyday/1260_Shift2DGrid_20220719.cpp">
+			<Option target="Leetcode_everyday"/>
+		</Unit>
 		<Unit filename="E:/Leetcode_everyday/162_FindPeakElement_20210915.cpp">
 			<Option target="Leetcode_everyday"/>
 		</Unit>

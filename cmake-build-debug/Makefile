@@ -149,6 +149,33 @@ Leetcode_everyday/fast:
 	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/1252_CellsWithOddValuesInAMatrix_20220712.cpp.s
 .PHONY : 1252_CellsWithOddValuesInAMatrix_20220712.cpp.s
 
+1260_Shift2DGrid_20220719.obj: 1260_Shift2DGrid_20220719.cpp.obj
+
+.PHONY : 1260_Shift2DGrid_20220719.obj
+
+# target to build an object file
+1260_Shift2DGrid_20220719.cpp.obj:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/1260_Shift2DGrid_20220719.cpp.obj
+.PHONY : 1260_Shift2DGrid_20220719.cpp.obj
+
+1260_Shift2DGrid_20220719.i: 1260_Shift2DGrid_20220719.cpp.i
+
+.PHONY : 1260_Shift2DGrid_20220719.i
+
+# target to preprocess a source file
+1260_Shift2DGrid_20220719.cpp.i:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/1260_Shift2DGrid_20220719.cpp.i
+.PHONY : 1260_Shift2DGrid_20220719.cpp.i
+
+1260_Shift2DGrid_20220719.s: 1260_Shift2DGrid_20220719.cpp.s
+
+.PHONY : 1260_Shift2DGrid_20220719.s
+
+# target to generate assembly for a file
+1260_Shift2DGrid_20220719.cpp.s:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/1260_Shift2DGrid_20220719.cpp.s
+.PHONY : 1260_Shift2DGrid_20220719.cpp.s
+
 162_FindPeakElement_20210915.obj: 162_FindPeakElement_20210915.cpp.obj
 
 .PHONY : 162_FindPeakElement_20210915.obj
@@ -323,6 +350,9 @@ help:
 	@echo ... 1252_CellsWithOddValuesInAMatrix_20220712.obj
 	@echo ... 1252_CellsWithOddValuesInAMatrix_20220712.i
 	@echo ... 1252_CellsWithOddValuesInAMatrix_20220712.s
+	@echo ... 1260_Shift2DGrid_20220719.obj
+	@echo ... 1260_Shift2DGrid_20220719.i
+	@echo ... 1260_Shift2DGrid_20220719.s
 	@echo ... 162_FindPeakElement_20210915.obj
 	@echo ... 162_FindPeakElement_20210915.i
 	@echo ... 162_FindPeakElement_20210915.s

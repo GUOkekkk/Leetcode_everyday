@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Leetcode_everyday.dir/1252_CellsWithOddValuesInAMatrix_20220712.cpp.obj"
+  "CMakeFiles/Leetcode_everyday.dir/1260_Shift2DGrid_20220719.cpp.obj"
   "CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.obj"
   "CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.obj"
   "CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.obj"

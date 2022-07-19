@@ -1,5 +1,6 @@
+/*
 //
-// Created by gkbb on 2022/7/19.
+// Created by gkbb on 2022/7/18.
 //You are implementing a program to use as your calendar. We can add a new event if adding the event will not cause a triple booking.
 //
 //A triple booking happens when three events have some non-empty intersection (i.e., some moment is common to all the three events.).
@@ -24,6 +25,7 @@
 // easier but the time complexity and space complexity is the same, therefore the segment tree is a better solution.
 
 // Difference array
+*/
 /*class MyCalendarTwo {
 public:
     MyCalendarTwo() {
@@ -48,7 +50,8 @@ public:
     }
 private:
     map<int, int> cnt;
-};*/
+};*//*
+
 
 #include <iostream>
 #include <vector>
@@ -91,11 +94,13 @@ private:
     unordered_map<int, pair<int, int>> segment_tree;
 };
 
+*/
 /*
  * Your MyCalendarTwo object will be instantiated and called as such:
  * MyCalendarTwo* obj = new MyCalendarTwo();
  * bool param_1 = obj->book(start,end);
- */
+ *//*
+
 
 
 int main() {
@@ -105,4 +110,4 @@ int main() {
     cout << myCalendarTwo.book(10, 40);
     cout << myCalendarTwo.book(5, 15) << endl;
     return 0;
-}
+}*/
