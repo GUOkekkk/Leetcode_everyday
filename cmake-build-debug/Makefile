@@ -203,6 +203,33 @@ Leetcode_everyday/fast:
 	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/162_FindPeakElement_20210915.cpp.s
 .PHONY : 162_FindPeakElement_20210915.cpp.s
 
+1704_DetermineIfStringHalvesAreAlike_20220721.obj: 1704_DetermineIfStringHalvesAreAlike_20220721.cpp.obj
+
+.PHONY : 1704_DetermineIfStringHalvesAreAlike_20220721.obj
+
+# target to build an object file
+1704_DetermineIfStringHalvesAreAlike_20220721.cpp.obj:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/1704_DetermineIfStringHalvesAreAlike_20220721.cpp.obj
+.PHONY : 1704_DetermineIfStringHalvesAreAlike_20220721.cpp.obj
+
+1704_DetermineIfStringHalvesAreAlike_20220721.i: 1704_DetermineIfStringHalvesAreAlike_20220721.cpp.i
+
+.PHONY : 1704_DetermineIfStringHalvesAreAlike_20220721.i
+
+# target to preprocess a source file
+1704_DetermineIfStringHalvesAreAlike_20220721.cpp.i:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/1704_DetermineIfStringHalvesAreAlike_20220721.cpp.i
+.PHONY : 1704_DetermineIfStringHalvesAreAlike_20220721.cpp.i
+
+1704_DetermineIfStringHalvesAreAlike_20220721.s: 1704_DetermineIfStringHalvesAreAlike_20220721.cpp.s
+
+.PHONY : 1704_DetermineIfStringHalvesAreAlike_20220721.s
+
+# target to generate assembly for a file
+1704_DetermineIfStringHalvesAreAlike_20220721.cpp.s:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/1704_DetermineIfStringHalvesAreAlike_20220721.cpp.s
+.PHONY : 1704_DetermineIfStringHalvesAreAlike_20220721.cpp.s
+
 20_VaildParentheses_20210914.obj: 20_VaildParentheses_20210914.cpp.obj
 
 .PHONY : 20_VaildParentheses_20210914.obj
@@ -256,6 +283,33 @@ Leetcode_everyday/fast:
 27_RemoveElement_20210916.cpp.s:
 	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/27_RemoveElement_20210916.cpp.s
 .PHONY : 27_RemoveElement_20210916.cpp.s
+
+37_SudokuSolver_20220916.obj: 37_SudokuSolver_20220916.cpp.obj
+
+.PHONY : 37_SudokuSolver_20220916.obj
+
+# target to build an object file
+37_SudokuSolver_20220916.cpp.obj:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/37_SudokuSolver_20220916.cpp.obj
+.PHONY : 37_SudokuSolver_20220916.cpp.obj
+
+37_SudokuSolver_20220916.i: 37_SudokuSolver_20220916.cpp.i
+
+.PHONY : 37_SudokuSolver_20220916.i
+
+# target to preprocess a source file
+37_SudokuSolver_20220916.cpp.i:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/37_SudokuSolver_20220916.cpp.i
+.PHONY : 37_SudokuSolver_20220916.cpp.i
+
+37_SudokuSolver_20220916.s: 37_SudokuSolver_20220916.cpp.s
+
+.PHONY : 37_SudokuSolver_20220916.s
+
+# target to generate assembly for a file
+37_SudokuSolver_20220916.cpp.s:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/37_SudokuSolver_20220916.cpp.s
+.PHONY : 37_SudokuSolver_20220916.cpp.s
 
 48_RotateImage_20220711.obj: 48_RotateImage_20220711.cpp.obj
 
@@ -338,6 +392,33 @@ Leetcode_everyday/fast:
 	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/731_MyCalendarII_20220718.cpp.s
 .PHONY : 731_MyCalendarII_20220718.cpp.s
 
+919_CompleteBinaryTreeInserter_20220726.obj: 919_CompleteBinaryTreeInserter_20220726.cpp.obj
+
+.PHONY : 919_CompleteBinaryTreeInserter_20220726.obj
+
+# target to build an object file
+919_CompleteBinaryTreeInserter_20220726.cpp.obj:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/919_CompleteBinaryTreeInserter_20220726.cpp.obj
+.PHONY : 919_CompleteBinaryTreeInserter_20220726.cpp.obj
+
+919_CompleteBinaryTreeInserter_20220726.i: 919_CompleteBinaryTreeInserter_20220726.cpp.i
+
+.PHONY : 919_CompleteBinaryTreeInserter_20220726.i
+
+# target to preprocess a source file
+919_CompleteBinaryTreeInserter_20220726.cpp.i:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/919_CompleteBinaryTreeInserter_20220726.cpp.i
+.PHONY : 919_CompleteBinaryTreeInserter_20220726.cpp.i
+
+919_CompleteBinaryTreeInserter_20220726.s: 919_CompleteBinaryTreeInserter_20220726.cpp.s
+
+.PHONY : 919_CompleteBinaryTreeInserter_20220726.s
+
+# target to generate assembly for a file
+919_CompleteBinaryTreeInserter_20220726.cpp.s:
+	$(MAKE) -f CMakeFiles\Leetcode_everyday.dir\build.make CMakeFiles/Leetcode_everyday.dir/919_CompleteBinaryTreeInserter_20220726.cpp.s
+.PHONY : 919_CompleteBinaryTreeInserter_20220726.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -356,12 +437,18 @@ help:
 	@echo ... 162_FindPeakElement_20210915.obj
 	@echo ... 162_FindPeakElement_20210915.i
 	@echo ... 162_FindPeakElement_20210915.s
+	@echo ... 1704_DetermineIfStringHalvesAreAlike_20220721.obj
+	@echo ... 1704_DetermineIfStringHalvesAreAlike_20220721.i
+	@echo ... 1704_DetermineIfStringHalvesAreAlike_20220721.s
 	@echo ... 20_VaildParentheses_20210914.obj
 	@echo ... 20_VaildParentheses_20210914.i
 	@echo ... 20_VaildParentheses_20210914.s
 	@echo ... 27_RemoveElement_20210916.obj
 	@echo ... 27_RemoveElement_20210916.i
 	@echo ... 27_RemoveElement_20210916.s
+	@echo ... 37_SudokuSolver_20220916.obj
+	@echo ... 37_SudokuSolver_20220916.i
+	@echo ... 37_SudokuSolver_20220916.s
 	@echo ... 48_RotateImage_20220711.obj
 	@echo ... 48_RotateImage_20220711.i
 	@echo ... 48_RotateImage_20220711.s
@@ -371,6 +458,9 @@ help:
 	@echo ... 731_MyCalendarII_20220718.obj
 	@echo ... 731_MyCalendarII_20220718.i
 	@echo ... 731_MyCalendarII_20220718.s
+	@echo ... 919_CompleteBinaryTreeInserter_20220726.obj
+	@echo ... 919_CompleteBinaryTreeInserter_20220726.i
+	@echo ... 919_CompleteBinaryTreeInserter_20220726.s
 .PHONY : help
 
 

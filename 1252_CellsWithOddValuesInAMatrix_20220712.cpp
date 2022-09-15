@@ -1,3 +1,4 @@
+/*
 //
 // Created by gkbb on 2022/7/12.
 //There is an m x n matrix that is initialized to all 0's. There is also a 2D array indices where each indices[i] = [ri, ci] represents a 0-indexed location to perform some increment operations on the matrix.
@@ -54,6 +55,6 @@ int main() {
     vector<vector<int>> indices = {{0,1}, {1,1}};
     Solution S1; // how to use class, first create one
     cout << S1.oddCells(m, n, indices) << endl; // put in the variable and use the function
-    // boolalpha is used to transfer the 1 and 0 to true and false
     return 0;
 }
+*/

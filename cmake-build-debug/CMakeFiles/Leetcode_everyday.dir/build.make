@@ -160,6 +160,45 @@ CMakeFiles/Leetcode_everyday.dir/1260_Shift2DGrid_20220719.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_everyday.dir/1260_Shift2DGrid_20220719.cpp.s"
 	"E:\JetBrains CLion v2019.3.4 Winx64\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Leetcode_everyday\1260_Shift2DGrid_20220719.cpp -o CMakeFiles\Leetcode_everyday.dir\1260_Shift2DGrid_20220719.cpp.s
 
+CMakeFiles/Leetcode_everyday.dir/1704_DetermineIfStringHalvesAreAlike_20220721.cpp.obj: CMakeFiles/Leetcode_everyday.dir/flags.make
+CMakeFiles/Leetcode_everyday.dir/1704_DetermineIfStringHalvesAreAlike_20220721.cpp.obj: ../1704_DetermineIfStringHalvesAreAlike_20220721.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Leetcode_everyday\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Leetcode_everyday.dir/1704_DetermineIfStringHalvesAreAlike_20220721.cpp.obj"
+	"E:\JetBrains CLion v2019.3.4 Winx64\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode_everyday.dir\1704_DetermineIfStringHalvesAreAlike_20220721.cpp.obj -c E:\Leetcode_everyday\1704_DetermineIfStringHalvesAreAlike_20220721.cpp
+
+CMakeFiles/Leetcode_everyday.dir/1704_DetermineIfStringHalvesAreAlike_20220721.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_everyday.dir/1704_DetermineIfStringHalvesAreAlike_20220721.cpp.i"
+	"E:\JetBrains CLion v2019.3.4 Winx64\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\Leetcode_everyday\1704_DetermineIfStringHalvesAreAlike_20220721.cpp > CMakeFiles\Leetcode_everyday.dir\1704_DetermineIfStringHalvesAreAlike_20220721.cpp.i
+
+CMakeFiles/Leetcode_everyday.dir/1704_DetermineIfStringHalvesAreAlike_20220721.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_everyday.dir/1704_DetermineIfStringHalvesAreAlike_20220721.cpp.s"
+	"E:\JetBrains CLion v2019.3.4 Winx64\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Leetcode_everyday\1704_DetermineIfStringHalvesAreAlike_20220721.cpp -o CMakeFiles\Leetcode_everyday.dir\1704_DetermineIfStringHalvesAreAlike_20220721.cpp.s
+
+CMakeFiles/Leetcode_everyday.dir/919_CompleteBinaryTreeInserter_20220726.cpp.obj: CMakeFiles/Leetcode_everyday.dir/flags.make
+CMakeFiles/Leetcode_everyday.dir/919_CompleteBinaryTreeInserter_20220726.cpp.obj: ../919_CompleteBinaryTreeInserter_20220726.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Leetcode_everyday\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Leetcode_everyday.dir/919_CompleteBinaryTreeInserter_20220726.cpp.obj"
+	"E:\JetBrains CLion v2019.3.4 Winx64\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode_everyday.dir\919_CompleteBinaryTreeInserter_20220726.cpp.obj -c E:\Leetcode_everyday\919_CompleteBinaryTreeInserter_20220726.cpp
+
+CMakeFiles/Leetcode_everyday.dir/919_CompleteBinaryTreeInserter_20220726.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_everyday.dir/919_CompleteBinaryTreeInserter_20220726.cpp.i"
+	"E:\JetBrains CLion v2019.3.4 Winx64\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\Leetcode_everyday\919_CompleteBinaryTreeInserter_20220726.cpp > CMakeFiles\Leetcode_everyday.dir\919_CompleteBinaryTreeInserter_20220726.cpp.i
+
+CMakeFiles/Leetcode_everyday.dir/919_CompleteBinaryTreeInserter_20220726.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_everyday.dir/919_CompleteBinaryTreeInserter_20220726.cpp.s"
+	"E:\JetBrains CLion v2019.3.4 Winx64\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Leetcode_everyday\919_CompleteBinaryTreeInserter_20220726.cpp -o CMakeFiles\Leetcode_everyday.dir\919_CompleteBinaryTreeInserter_20220726.cpp.s
+
+CMakeFiles/Leetcode_everyday.dir/37_SudokuSolver_20220916.cpp.obj: CMakeFiles/Leetcode_everyday.dir/flags.make
+CMakeFiles/Leetcode_everyday.dir/37_SudokuSolver_20220916.cpp.obj: ../37_SudokuSolver_20220916.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Leetcode_everyday\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Leetcode_everyday.dir/37_SudokuSolver_20220916.cpp.obj"
+	"E:\JetBrains CLion v2019.3.4 Winx64\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode_everyday.dir\37_SudokuSolver_20220916.cpp.obj -c E:\Leetcode_everyday\37_SudokuSolver_20220916.cpp
+
+CMakeFiles/Leetcode_everyday.dir/37_SudokuSolver_20220916.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_everyday.dir/37_SudokuSolver_20220916.cpp.i"
+	"E:\JetBrains CLion v2019.3.4 Winx64\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\Leetcode_everyday\37_SudokuSolver_20220916.cpp > CMakeFiles\Leetcode_everyday.dir\37_SudokuSolver_20220916.cpp.i
+
+CMakeFiles/Leetcode_everyday.dir/37_SudokuSolver_20220916.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_everyday.dir/37_SudokuSolver_20220916.cpp.s"
+	"E:\JetBrains CLion v2019.3.4 Winx64\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Leetcode_everyday\37_SudokuSolver_20220916.cpp -o CMakeFiles\Leetcode_everyday.dir\37_SudokuSolver_20220916.cpp.s
+
 # Object files for target Leetcode_everyday
 Leetcode_everyday_OBJECTS = \
 "CMakeFiles/Leetcode_everyday.dir/20_VaildParentheses_20210914.cpp.obj" \
@@ -169,7 +208,10 @@ Leetcode_everyday_OBJECTS = \
 "CMakeFiles/Leetcode_everyday.dir/48_RotateImage_20220711.cpp.obj" \
 "CMakeFiles/Leetcode_everyday.dir/1252_CellsWithOddValuesInAMatrix_20220712.cpp.obj" \
 "CMakeFiles/Leetcode_everyday.dir/731_MyCalendarII_20220718.cpp.obj" \
-"CMakeFiles/Leetcode_everyday.dir/1260_Shift2DGrid_20220719.cpp.obj"
+"CMakeFiles/Leetcode_everyday.dir/1260_Shift2DGrid_20220719.cpp.obj" \
+"CMakeFiles/Leetcode_everyday.dir/1704_DetermineIfStringHalvesAreAlike_20220721.cpp.obj" \
+"CMakeFiles/Leetcode_everyday.dir/919_CompleteBinaryTreeInserter_20220726.cpp.obj" \
+"CMakeFiles/Leetcode_everyday.dir/37_SudokuSolver_20220916.cpp.obj"
 
 # External object files for target Leetcode_everyday
 Leetcode_everyday_EXTERNAL_OBJECTS =
@@ -182,11 +224,14 @@ Leetcode_everyday.exe: CMakeFiles/Leetcode_everyday.dir/48_RotateImage_20220711.
 Leetcode_everyday.exe: CMakeFiles/Leetcode_everyday.dir/1252_CellsWithOddValuesInAMatrix_20220712.cpp.obj
 Leetcode_everyday.exe: CMakeFiles/Leetcode_everyday.dir/731_MyCalendarII_20220718.cpp.obj
 Leetcode_everyday.exe: CMakeFiles/Leetcode_everyday.dir/1260_Shift2DGrid_20220719.cpp.obj
+Leetcode_everyday.exe: CMakeFiles/Leetcode_everyday.dir/1704_DetermineIfStringHalvesAreAlike_20220721.cpp.obj
+Leetcode_everyday.exe: CMakeFiles/Leetcode_everyday.dir/919_CompleteBinaryTreeInserter_20220726.cpp.obj
+Leetcode_everyday.exe: CMakeFiles/Leetcode_everyday.dir/37_SudokuSolver_20220916.cpp.obj
 Leetcode_everyday.exe: CMakeFiles/Leetcode_everyday.dir/build.make
 Leetcode_everyday.exe: CMakeFiles/Leetcode_everyday.dir/linklibs.rsp
 Leetcode_everyday.exe: CMakeFiles/Leetcode_everyday.dir/objects1.rsp
 Leetcode_everyday.exe: CMakeFiles/Leetcode_everyday.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\Leetcode_everyday\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Leetcode_everyday.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\Leetcode_everyday\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable Leetcode_everyday.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Leetcode_everyday.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

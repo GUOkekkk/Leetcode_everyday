@@ -24,9 +24,15 @@
 // It is easy to solve this question by using the traversal algorithm directly although using difference array can make code
 // easier but the time complexity and space complexity is the same, therefore the segment tree is a better solution.
 
+//*
 // Difference array
 */
-/*class MyCalendarTwo {
+/*#include <iostream>
+#include <vector>
+#include <map>
+using namespace std;
+
+class MyCalendarTwo {
 public:
     MyCalendarTwo() {
 
@@ -53,6 +59,9 @@ private:
 };*//*
 
 
+
+
+// NOT finished
 #include <iostream>
 #include <vector>
 #include <bits/unordered_map.h>
@@ -94,20 +103,19 @@ private:
     unordered_map<int, pair<int, int>> segment_tree;
 };
 
-*/
-/*
- * Your MyCalendarTwo object will be instantiated and called as such:
- * MyCalendarTwo* obj = new MyCalendarTwo();
- * bool param_1 = obj->book(start,end);
- *//*
+// * Your MyCalendarTwo object will be instantiated and called as such:
+// * MyCalendarTwo* obj = new MyCalendarTwo();
+// * bool param_1 = obj->book(start,end);
+
 
 
 
 int main() {
     MyCalendarTwo myCalendarTwo;
-    cout << myCalendarTwo.book(10, 20);
-    cout << myCalendarTwo.book(50, 60);
-    cout << myCalendarTwo.book(10, 40);
+    cout << boolalpha << myCalendarTwo.book(10, 20) << endl;
+    cout << myCalendarTwo.book(50, 60) << endl;
+    cout << myCalendarTwo.book(10, 40) << endl;
     cout << myCalendarTwo.book(5, 15) << endl;
     return 0;
-}*/
+}
+*/

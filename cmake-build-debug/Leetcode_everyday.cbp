@@ -89,10 +89,16 @@
 		<Unit filename="E:/Leetcode_everyday/162_FindPeakElement_20210915.cpp">
 			<Option target="Leetcode_everyday"/>
 		</Unit>
+		<Unit filename="E:/Leetcode_everyday/1704_DetermineIfStringHalvesAreAlike_20220721.cpp">
+			<Option target="Leetcode_everyday"/>
+		</Unit>
 		<Unit filename="E:/Leetcode_everyday/20_VaildParentheses_20210914.cpp">
 			<Option target="Leetcode_everyday"/>
 		</Unit>
 		<Unit filename="E:/Leetcode_everyday/27_RemoveElement_20210916.cpp">
+			<Option target="Leetcode_everyday"/>
+		</Unit>
+		<Unit filename="E:/Leetcode_everyday/37_SudokuSolver_20220916.cpp">
 			<Option target="Leetcode_everyday"/>
 		</Unit>
 		<Unit filename="E:/Leetcode_everyday/48_RotateImage_20220711.cpp">
@@ -102,6 +108,9 @@
 			<Option target="Leetcode_everyday"/>
 		</Unit>
 		<Unit filename="E:/Leetcode_everyday/731_MyCalendarII_20220718.cpp">
+			<Option target="Leetcode_everyday"/>
+		</Unit>
+		<Unit filename="E:/Leetcode_everyday/919_CompleteBinaryTreeInserter_20220726.cpp">
 			<Option target="Leetcode_everyday"/>
 		</Unit>
 		<Unit filename="E:/Leetcode_everyday/CMakeLists.txt">

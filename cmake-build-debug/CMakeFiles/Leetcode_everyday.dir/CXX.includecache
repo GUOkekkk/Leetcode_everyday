@@ -6,17 +6,7 @@
 
 #IncludeRegexTransform: 
 
-E:/Leetcode_everyday/1252_CellsWithOddValuesInAMatrix_20220712.cpp
+E:/Leetcode_everyday/37_SudokuSolver_20220916.cpp
 iostream
--
-vector
--
-
-E:/Leetcode_everyday/731_MyCalendarII_20220718.cpp
-iostream
--
-vector
--
-bits/unordered_map.h
 -
 
