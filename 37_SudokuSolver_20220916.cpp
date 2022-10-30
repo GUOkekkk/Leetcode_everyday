@@ -1,3 +1,4 @@
+/*
 //
 // Created by gkbb on 2022/9/16.
 // Write a program to solve a Sudoku puzzle by filling the empty cells.
@@ -118,4 +119,4 @@ int main()
     s1.solve(0);
     s1.affiche_grille();
     cout<< s1.grille_finie()<<endl;
-}
+}*/
