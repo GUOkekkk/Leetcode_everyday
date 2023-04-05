@@ -1,3 +1,0 @@
-"E:\JetBrains Clion\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Leetcode_everyday.dir/objects.a
-"E:\JetBrains CLion v2019.3.4 Winx64\mingw64\bin\ar.exe" cr CMakeFiles\Leetcode_everyday.dir/objects.a @CMakeFiles\Leetcode_everyday.dir\objects1.rsp
-"E:\JetBrains CLion v2019.3.4 Winx64\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\Leetcode_everyday.dir/objects.a -Wl,--no-whole-archive  -o Leetcode_everyday.exe -Wl,--out-implib,libLeetcode_everyday.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Leetcode_everyday.dir\linklibs.rsp

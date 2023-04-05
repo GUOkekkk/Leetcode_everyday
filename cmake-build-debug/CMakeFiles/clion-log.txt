@@ -1,4 +1,0 @@
-"E:\JetBrains Clion\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Leetcode_everyday
--- Configuring done
--- Generating done
--- Build files have been written to: E:/Leetcode_everyday/cmake-build-debug
