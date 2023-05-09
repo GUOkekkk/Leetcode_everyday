@@ -21,6 +21,7 @@ class Solution:
                 num[ord(s[left]) - ord("A")] -= 1
                 left += 1
             right += 1
-
+        # the right pointer is always moving, but when cant replace k characters,
+        # the left pointer will move to keep the window size is the largest
         return right - left
 # @lc code=end
