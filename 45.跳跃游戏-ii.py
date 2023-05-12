@@ -9,10 +9,11 @@ class Solution:
     def jump(self, nums: List[int]) -> int:
         n = len(nums)
         maxPos, end, step = 0, 0, 0
-        for i in range(n - 1):
+        for i in range(n - 1): # --> until catch the n-1
+            # step by step search but the real road is the end
             if maxPos >= i:
                 maxPos = max(maxPos, i + nums[i])
-                if i == end:
+                if i == end: # when i catches the end, step(real move) + 1
                     end = maxPos
                     step += 1
         return step
