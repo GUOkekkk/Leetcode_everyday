@@ -20,3 +20,16 @@ class MinStack:
 
     def min(self) -> int:
         return self.B[-1]
+
+
+if __name__ == "__main__":
+    s = MinStack()
+    s.push(9)
+    s.push(10)
+    s.push(7)
+    s.push(3)
+    s.push(5)
+    print(s.min())
+    s.pop()
+    print(s.min())
+    print(s.top())
