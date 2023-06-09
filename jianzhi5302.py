@@ -8,7 +8,7 @@ class Solution:
             mid = (l + r) // 2
             # print(f"l: {l}, r: {r}, mid: {mid}")
             # if nums[mid] < (nums[l] + nums[r]) / 2:
-            if nums[mid] == mid
+            if nums[mid] == mid:
                 l = mid + 1
             else:
                 r = mid - 1
