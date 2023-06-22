@@ -62,4 +62,5 @@ if __name__ == "__main__":
     res = s.deleteNode(head, 1)
     while res is not None:
         print(res.val)
-        res = res.next
+        res= res.next
+        
