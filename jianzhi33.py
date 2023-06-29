@@ -64,14 +64,16 @@ class Solution:
             if postorder[i] > root:
                 return False
             # if the current node is smaller than the root node, it is the left subtree, and we should find the root node of the subtree
+            # when meet a decreasing node, find its root node, and the rest node is the left subtree so should be smaller than the root node
+            # use this stack to store the monotonic increasing nodes, and the root should be the smaller one
             while stack and postorder[i] < stack[-1]:
                 # find the new root node of the subtree
                 root = stack.pop()
-            # stack
+            # stack the increasing nodes
             stack.append(postorder[i])
         return True
 
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.verifyPostorder([1, 3, 2, 4, 7, 6, 5]))
+    print(s.verifyPostorder([1, 3, 2, 7, 4, 6, 5]))
